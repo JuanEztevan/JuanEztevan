@@ -1,11 +1,8 @@
-<!-- ✨ Minimal & Aesthetic GitHub Profile by Juan Esteban Carmona Rodríguez -->
-
 # — Hey, I'm Juan Esteban
 
 I'm a Systems Engineering student from Peru, exploring how data and design can make technology more intuitive and inclusive.  
 I’m currently learning **Data Analysis** and **UI/UX Design**, aiming to craft digital experiences that are both clear and meaningful.  
 
-If you’re looking to collaborate or bring a project to life, feel free to reach out — I’d love to connect.
 
 <p align="center">━━━━━━━━━━</p>
 
@@ -24,12 +21,9 @@ If you’re looking to collaborate or bring a project to life, feel free to reac
 [![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=adobeillustrator&logoColor=white)](https://www.adobe.com)
 
-
 ## Contact
 
+If you’re looking to collaborate or bring a project to life, feel free to reach out — I’d love to connect.
+<br></br>
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:jcarmonarz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/carmonar)
-
-
- 
-
