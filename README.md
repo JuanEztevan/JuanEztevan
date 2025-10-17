@@ -23,7 +23,7 @@ I’m currently learning **Data Analysis** and **UI/UX Design**, aiming to craft
 
 ## Contact
 
-If you’re looking to collaborate or bring a project to life, feel free to reach out — I’d love to connect.
+If you’re looking to create data-driven dashboards or intuitive web and mobile designs, I’d be happy to hear about your project.
 <br></br>
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:jcarmonarz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/carmonar)
